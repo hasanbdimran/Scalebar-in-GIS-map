@@ -1,3 +1,4 @@
+
 def plotScaleBar(ax, barX, barY, barLength, figureCRS, percentHeight, segments, tickTextPad=0.002, unitTextPadV=0.5, unitTextPadH=0.5):
     import geopandas as gpd
     import numpy as np
